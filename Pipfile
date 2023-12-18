@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 pandas = "*"
 matplotlib = "*"
+scipy = "*"
+sweetviz = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
