@@ -10,6 +10,13 @@ scipy = "*"
 sweetviz = "*"
 seaborn = "*"
 scikit-learn = "*"
+statsmodels = "*"
+fastapi = "*"
+uvicorn = "*"
+pydantic = "*"
+pingouin = "*"
+ipykernel = "*"
+gradio = "*"
 
 [dev-packages]
 ipykernel = "*"
