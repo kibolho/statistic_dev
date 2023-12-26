@@ -11,7 +11,7 @@ class request_body(BaseModel):
   horas_estudo: float
   
 # Carregar o modelo para realizar as predições
-modelo_pontuacao = joblib.load('./modelo_regressao_grades.pkl')
+modelo_pontuacao = joblib.load('./grade_model/grade_model.pkl')
 
 @app.post('/predict')
 def predict(data: request_body):

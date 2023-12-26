@@ -13,7 +13,7 @@ class request_body(BaseModel):
   nivel_na_empresa: int
   
 # Carregar o modelo para realizar as predições
-modelo_salario = joblib.load('./modelo_salario.pkl')
+modelo_salario = joblib.load('./wage_model/wage_model.pkl')
 
 @app.post('/predict')
 def predict(data: request_body):
