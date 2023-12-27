@@ -8,6 +8,7 @@ We have some projects inside this one separated by folders:
 3. [Grade Model - Linear Regression](./grade_model/grade_model.ipynb)
 4. [Colesterol Model - Multiple Linear Regression](./cholesterol_model/cholesterol_model.ipynb)
 5. [Wage Model - Polynomial Regression](./wage_model/wage_model.ipynb)
+6. [Semantic Search - OpenAI API - Langchain](./semantic_search/readme.md)
 
 ## Blog Post
 
