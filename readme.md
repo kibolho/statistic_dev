@@ -9,6 +9,7 @@ We have some projects inside this one separated by folders:
 4. [Colesterol Model - Multiple Linear Regression](./cholesterol_model/cholesterol_model.ipynb)
 5. [Wage Model - Polynomial Regression](./wage_model/wage_model.ipynb)
 6. [Semantic Search - OpenAI API - Langchain](./semantic_search/readme.md)
+7. [NLP - Starbucks Review Model - Spacy](./nlp_starbucks_review_model/review_model.ipynb)
 
 ## Blog Post
 
